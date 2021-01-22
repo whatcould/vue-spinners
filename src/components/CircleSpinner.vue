@@ -1,5 +1,5 @@
 <template>
-  <div v-if="loading">
+  <div v-if="loading" class="spinner-wrapper">
     <div class="sk-fading-circle">
       <div class="sk-circle1 sk-circle"></div>
       <div class="sk-circle2 sk-circle"></div>
